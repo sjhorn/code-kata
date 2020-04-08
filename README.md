@@ -7,5 +7,4 @@ Once you are confident you have a general solution it can be valuable to write t
 This repository will work through some examples of problems and demonstrate solutions in modern languages. To demonstrate the difference between options and refinements it will also visualize the results in terms of time and space. 
 
 * [Solving Problems](SolvingProblems.md)
-
-* 
+* [Analyzing Solutions](AnalyzingSolutions.md)
