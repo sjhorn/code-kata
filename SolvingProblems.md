@@ -1,6 +1,12 @@
 # Solving Problems
 
+[Start](README.md) | [Next Up: Analyzing Solutions](AnalyzingSolutions.md) 
+
+
+
 > Solving problems uses a similar set of techniques for moving from understanding the problem to articulating and testing a solution.
+
+There are similar steps each time, below we explore the basic steps, what to do when you get stuck and then a nice little pneumonic to help remember.  
 
 ## Basic Steps
 
@@ -38,3 +44,18 @@
    2. Start by matching the specific outcomes and then try to be more general
    3. Consider a different data structure
    4. Consider alternative looping/map/reduce/iteration features of the language
+
+## REACTO
+
+Borrowed from [Full Stack Academy]([Whiteboard Coding Interviews: A 6 Step Process to… | Fullstack Academy](https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem))
+
+* Repeat - repeat the question and paraphrase to make sure you get
+* Examples - write out some examples, inputs/outputs possibly a table
+* Approach - describe options eg. brute force, recursive and data structures
+* Code - breadth first, decompose into parts, leave room between each line
+* Test - trace solution and verify, consider kind of errors, -1,0,1,2+/many edges
+* Optimize - consider the time and space complexity, are there embedded loops, recursive callbacks - can you pre-compute. Are 2 data-structures needed...
+
+[Start](README.md) | [Next Up: Analyzing Solutions](AnalyzingSolutions.md)
+
+
