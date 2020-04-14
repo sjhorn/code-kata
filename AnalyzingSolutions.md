@@ -12,3 +12,14 @@ A common way to compare and classify alternatives is comparing their _time compl
 The key purpose of Big-O is to understand what happens when input get's really large, it is not as useful to analyzing efficiency when the input is small. 
 
 ## Big-O Analysis
+
+Consider the approach to find the minimum value stored in a positive integer array. 
+
+```javascript
+[ 23, 34, 4, 45, 78, 23]
+```
+
+Lets start with the 2 easy ways to solve this problem. 
+
+1. Walk each item of the array and compare with every other item. 
+2. 

@@ -2,8 +2,6 @@
 
 [Start](README.md) | [Next Up: Analyzing Solutions](AnalyzingSolutions.md) 
 
-
-
 > Solving problems uses a similar set of techniques for moving from understanding the problem to articulating and testing a solution.
 
 There are similar steps each time, below we explore the basic steps, what to do when you get stuck and then a nice little pneumonic to help remember.  
@@ -47,7 +45,7 @@ There are similar steps each time, below we explore the basic steps, what to do 
 
 ## REACTO
 
-Borrowed from [Full Stack Academy]([Whiteboard Coding Interviews: A 6 Step Process to… | Fullstack Academy](https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem))
+Borrowed from [Full Stack Academy](https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem)
 
 * Repeat - repeat the question and paraphrase to make sure you get
 * Examples - write out some examples, inputs/outputs possibly a table
@@ -56,6 +54,4 @@ Borrowed from [Full Stack Academy]([Whiteboard Coding Interviews: A 6 Step Proce
 * Test - trace solution and verify, consider kind of errors, -1,0,1,2+/many edges
 * Optimize - consider the time and space complexity, are there embedded loops, recursive callbacks - can you pre-compute. Are 2 data-structures needed...
 
-[Start](README.md) | [Next Up: Analyzing Solutions](AnalyzingSolutions.md)
-
-
+[Start](README.md) | [Next Up: Analyzing Solutions](AnalyzingSolutions.md) 
