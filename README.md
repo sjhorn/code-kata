@@ -8,3 +8,5 @@ This repository will work through some examples of problems and demonstrate solu
 
 * [Solving Problems](SolvingProblems.md)
 * [Analyzing Solutions](AnalyzingSolutions.md) 
+* ...
+* [Common Questions](CommonQuestions.md) 
