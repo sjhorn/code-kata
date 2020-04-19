@@ -2,4 +2,5 @@ build/
 node_modules/
 bin/
 yarn.lock
-
+_archive/
+.DS_Store

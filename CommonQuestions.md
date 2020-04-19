@@ -2,8 +2,6 @@
 
 The screening interview will want to save both parties time by testing up front if there is a culture fit. Below are some example questions.
 
-
-
 ## People:
 
 * The type of engineering leader you are? At *X* we have a bottom up culture and the role of a manager is to support their team not necessarily to tell them what to do
@@ -26,9 +24,5 @@ The screening interview will want to save both parties time by testing up front 
 * What were the challenges?  
 * Why are you proud of this?  
 * Key learns?
-
-
-
-
 
 [Start](README.md) | 
